@@ -1,2 +1,2 @@
-# kavita-mahto
-Kavitaum
+# IOT
+All IOT practical
